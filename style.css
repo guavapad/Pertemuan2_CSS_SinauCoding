@@ -1,0 +1,59 @@
+.container{
+    height: 50%;
+    background-color: rgb(243, 139, 41);
+    text-align: center;
+    background-image: url(./image/html.png);
+    background-repeat: repeat-y;
+    background-size: 150px;
+    background-position: left;
+    font-family: sans-serif;   
+}
+.container2{
+    margin-top: 10px;
+    height: auto;
+    background-color: lightblue;
+    text-align: center;
+    background-image: url(./image/css.png);
+    background-repeat: repeat-y;
+    background-size: 150px;
+    background-position: right;
+    font-family: sans-serif;
+
+}
+.h2 {
+    color: orangered;
+}
+.h2:hover{
+    font-size: 35px;
+    transition: 0.5s;
+}
+.h2-css{
+    color: blue;
+}
+.h2-css:hover{
+    font-size: 35px;
+    transition: 0.5s;
+}
+.link{
+    color: black;
+}
+a:hover{
+    font-size: 20px;
+    transition: 0.5s;
+}
+.btn1{
+    color: white;
+    background-color: red;
+}
+.btn2{
+    color: white;
+    background-color: blue;
+}
+.img2{
+    height: 150px;
+    width: 150px;
+}
+.img1{
+    height: 150px;
+    width: 150px;
+}
